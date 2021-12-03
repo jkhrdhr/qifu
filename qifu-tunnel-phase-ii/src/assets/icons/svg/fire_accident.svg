@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57 (83077) - https://sketch.com -->
+    <title>fire_accident</title>
+    <desc>Created with Sketch.</desc>
+    <g id="UI设计图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="事件管理" transform="translate(-976.000000, -216.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="编组-24" transform="translate(103.000000, 103.000000)">
+                <g id="编组-16" transform="translate(294.000000, 0.000000)">
+                    <g id="编组-15" transform="translate(56.000000, 32.000000)">
+                        <g id="编组-5">
+                            <g id="编组-10" transform="translate(3.000000, 72.000000)">
+                                <g id="编组-29" transform="translate(510.000000, 0.000000)">
+                                    <g id="fire_accident" transform="translate(10.000000, 9.000000)">
+                                        <g transform="translate(4.000000, 2.000000)" id="路径">
+                                            <path d="M10.8055061,3.2518366 C8.73914884,3.83582653 8.36083646,5.49121649 8.49411951,6.54262473 C7.02002291,4.82559482 7.08055289,2.85038619 7.08055289,0.00471080433 C2.3528812,1.7711792 3.45235541,6.8642911 3.31096504,8.41091642 C2.12183124,7.44644997 1.89713232,5.14198442 1.89713232,5.14198442 C0.641827118,5.7820712 0.0123650046,7.49151056 0.0123650046,8.87811834 C0.0123650046,12.2312289 2.75500108,14.9492964 6.13815149,14.9492964 C9.5213019,14.9492964 12.263938,12.2312289 12.263938,8.87811834 C12.263938,6.88543146 10.7876238,5.96622536 10.8055061,3.2518366 Z"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
